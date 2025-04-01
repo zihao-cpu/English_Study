@@ -12,3 +12,4 @@ are you tipsy?
 how was your meal?
 I am stuffed
 what's is poison?
+cell service is down to one bar
